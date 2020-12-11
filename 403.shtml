@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+<title title="Being a learner">Being a learner</title>
+<link rel="shortcut icon" href="logo.png">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Red+Rose:wght@400;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap" rel="stylesheet">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  margin: 0;
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#menu {
+    animation-name: example;
+    animation-duration: 6s;
+    animation-iteration-count: 10;
+    top: 0;
+    position: fixed;
+    display: block;
+    transition: top .4s;
+    background-color: #f1f1f1;
+    width: 100%;
+    z-index: 99;
+}
+
+#navbar {
+    overflow: hidden;
+    margin-top: 27px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: top .2s;
+}
+#navbar-right {
+   margin-top: 0px; 
+  float: right;
+}
+
+#logo {
+    height: 103px;
+    width: 123px;
+}
+#navbar a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+
+}
+.dropdown a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.dropdown a:hover {
+  color: #222222
+}
+
+/* Dropdown */
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+    margin-right: 21px;
+    margin-top: 26px;
+    float: right;}
+
+.dd-button {
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 6px 11px 5px 9px;
+    background-color: #ffffff;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.dd-button:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: inherit;
+}
+
+.dd-button:hover {
+  background-color: #eeeeee;
+}
+
+
+.dd-input {
+  display: none;
+}
+
+.dd-menu {
+  position: absolute;
+  top: 100%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0;
+  margin: 2px 0 0 0;
+  box-shadow: 0 0 6px 0 rgba(0,0,0,0.1);
+  background-color: #ffffff;
+  list-style-type: none;
+}
+
+.dd-input + .dd-menu {
+  display: none;
+} 
+
+.dd-input:checked + .dd-menu {
+  display: block;
+  margin-left: -54px;
+} 
+
+.dd-menu li {
+  padding: 10px 20px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.dd-menu li:hover {
+  background-color: #f6f6f6;
+}
+
+.dd-menu li a {
+  display: block;
+  margin: -10px -20px;
+  padding: 10px 20px;
+}
+
+.dd-menu li.divider{
+  padding: 0;
+  border-bottom: 1px solid #cccccc;
+}
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/*to top*/
+#myBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 4px;
+  font-family: 'Red Rose', cursive;
+}
+.cover{
+    width: 100%;
+    height: 518px;
+    background-color: #ddebe6;
+}
+.txt{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 35px;
+    color: #ff0606;
+    margin-top: -50px;
+}
+.img404{
+    height: 127px;
+    width: 172px;
+    margin-left: 20%;
+    margin-top: 160px;
+}
+.footer {
+    font-family: 'Abril Fatface', cursive;
+    color: #ffffff;
+    background-color: #464544;
+    text-align: center;
+    height: 45px;
+    width: 100%;
+    padding-top: 3%;
+    padding-bottom: 21px;
+    font-size: 132%;
+    text-decoration: none;
+}
+
+@keyframes example {
+  0%   {background-color: #f1f1f1;}
+  25%  {background-color: #bcf1f4;}
+  50%  {background-color: #c8ffe9;}
+  100% {background-color: #fff3b3;}
+}
+
+@media screen and (min-width: 601px){
+  .dropdown{
+    display: none;
+  }
+}
+@media screen and (max-width: 600px){
+
+  #navbar a{
+    display: none;
+  }
+
+.footer{
+    height: 60px;
+    font-size: 14px;
+
+}
+}
+</style>
+
+</head>
+<body>
+<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<div id="menu">
+   <a class="im" href="http://beingalearner.rf.gd/">
+  <img class="im" title="Being a learner" target="_top" id="logo" src="logo.png" ></a>
+
+<div id="navbar">
+  
+ <div id="navbar-right"> 
+<a class="active" href="http://beingalearner.rf.gd/">Home</a>
+    <a href="apti.html">Apti</a>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+    <a href="login.html">Login</a>
+</div>  
+</div>
+<label class="dropdown">
+
+  <div class="dd-button"><img class="menuimg" src="open.png"style="
+    height: 31px;    width: 28px;">
+  </div>
+
+  <input type="checkbox" class="dd-input" id="test">
+
+  <ul class="dd-menu">
+    <li><a class="active" href="http://beingalearner.rf.gd/">Home</a></li>
+    <li><a href="apti.html">Apti</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="login.html">Login</a></li>
+  </ul>
+</div>
+<div class="cover">
+	<div style="width: 310px;margin-left: 36%;">
+	<img class="img404" src="logo.png">
+	<div class="txt">
+		<p>403 Forbidden</p>
+		<p ><a href="http://beingalearner.rf.gd/" style="color:dodgerblue ;margin-left: 56px;font-size: 28px;">Return Home</a></p>
+	</div>
+</div>
+</div>
+</body>
+<script>
+  //adaptive menu
+var prevScrollpos = window.pageYOffset;
+window.onscroll = function() {
+  scroll2Function()
+var currentScrollPos = window.pageYOffset;
+  if (prevScrollpos > currentScrollPos) {
+    document.getElementById("menu").style.top = "0";
+    document.getElementById("navbar").style.top = "0";
+  } else {
+    document.getElementById("navbar").style.top = "-86.67px";
+    document.getElementById("menu").style.top = "-170px";
+  }
+  prevScrollpos = currentScrollPos;
+}
+//scroll botton
+var mybutton = document.getElementById("myBtn");
+
+function scroll2Function() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+function topFunction() {
+  document.body.scrollTop = 0;
+  document.documentElement.scrollTop = 0;
+}
+
+</script>
+<footer>
+  <div class="footer">
+     <p>Copyright &copy; 2020 Being a learner. All rights reserved | Designed by <a href="#smartinventor" style="text-decoration: none;color: white;font-family: 'Abril Fatface', cursive;">SMARTINVENTOR</a><p>
+  </div>
+</footer>
+</html>

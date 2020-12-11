@@ -1,0 +1,331 @@
+[13-Aug-2020 04:33:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 04:38:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 04:43:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 04:54:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 04:54:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 04:56:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/beingale/public_html/connection1.php on line 13
+[13-Aug-2020 09:51:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:02:32 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:02:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:02:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:08:53 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:08:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:09:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'51.195.62.12' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:11:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:15:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:15:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:19:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:20:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:23:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user2'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:25:18 UTC] PHP Warning:  Packets out of order. Expected 0 received 80. Packet size=5526600 in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:25:18 UTC] PHP Warning:  mysqli::__construct(): MySQL server has gone away in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:25:18 UTC] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=28299 in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:25:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:28:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user2'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:32:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:32:38 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:38:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'beingal_user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 15
+[13-Aug-2020 10:38:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'beingal_user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 15
+[13-Aug-2020 10:39:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' to database 'beingale_new' in /home/beingale/public_html/connection.php on line 15
+[13-Aug-2020 10:43:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:46:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:58:08 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 10:58:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:07:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'user2'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:08:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user2'@'server51.dnsserverboot.com' to database 'beingale_new' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:08:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user2'@'server51.dnsserverboot.com' to database 'beingale_new' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:12:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:14:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:15:47 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 11:19:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:02:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:03:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'beingale_user1'@'server51.dnsserverboot.com' (using password: YES) in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:17:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'51.195.62.12' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:23:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'51.195.62.12' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:23:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_user1'@'51.195.62.12' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:26:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:29:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:31:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:31:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:32:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:32:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 23
+[13-Aug-2020 12:32:22 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 28
+[13-Aug-2020 12:32:22 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 30
+[13-Aug-2020 12:33:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:33:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 23
+[13-Aug-2020 12:33:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 28
+[13-Aug-2020 12:33:07 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 30
+[13-Aug-2020 12:33:27 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:33:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 23
+[13-Aug-2020 12:33:27 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 28
+[13-Aug-2020 12:33:27 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 30
+[13-Aug-2020 12:33:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:33:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 23
+[13-Aug-2020 12:33:31 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 28
+[13-Aug-2020 12:33:31 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 30
+[13-Aug-2020 12:34:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:35:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/beingale/public_html/connection.php on line 17
+[13-Aug-2020 12:35:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/beingale/public_html/connection.php on line 17
+[13-Aug-2020 12:35:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:35:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:35:51 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 26
+[13-Aug-2020 12:35:51 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 28
+[13-Aug-2020 12:39:44 UTC] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/beingale/public_html/connection.php on line 19
+[13-Aug-2020 12:39:47 UTC] PHP Parse error:  syntax error, unexpected 'INTO' (T_STRING) in /home/beingale/public_html/connection.php on line 19
+[13-Aug-2020 12:40:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:40:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:40:41 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 26
+[13-Aug-2020 12:40:41 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 28
+[13-Aug-2020 12:42:30 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:42:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:44:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:44:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:46:29 UTC] PHP Parse error:  syntax error, unexpected '$lastname' (T_VARIABLE), expecting ',' or ';' in /home/beingale/public_html/connection.php on line 14
+[13-Aug-2020 12:46:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:46:53 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:51:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:51:57 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:52:02 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:52:02 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:53:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:53:22 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:53:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:53:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 12:54:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 13
+[13-Aug-2020 12:54:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 21
+[13-Aug-2020 13:00:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:01:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:02:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:02:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:04:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:06:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:07:46 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:08:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'beingale_learner'@'server51.dnsserverboot.com' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 12
+[13-Aug-2020 13:08:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/beingale/public_html/connection.php on line 20
+[13-Aug-2020 13:21:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_contactform' in /home/beingale/public_html/connection.php on line 9
+[13-Aug-2020 13:22:01 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'beingale_learner'@'localhost' to database 'beingale_new' in /home/beingale/public_html/connection.php on line 9
+[16-Aug-2020 13:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 8
+[16-Aug-2020 13:42:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 8
+[16-Aug-2020 13:45:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 13:45:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 13:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 13:46:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 13:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 13:49:10 UTC] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home/beingale/public_html/loginchk.php on line 8
+[16-Aug-2020 13:49:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 13:49:37 UTC] PHP Warning:  Use of undefined constant conn - assumed 'conn' (this will throw an Error in a future version of PHP) in /home/beingale/public_html/loginchk.php on line 8
+[16-Aug-2020 13:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 13:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 13:50:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 13:51:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 13:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 15:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 15:22:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 15:22:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 16
+[16-Aug-2020 15:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 15:30:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 15:31:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 15:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 15:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 15:33:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 15
+[16-Aug-2020 15:36:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[16-Aug-2020 15:36:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[16-Aug-2020 15:39:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[16-Aug-2020 15:40:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[16-Aug-2020 15:40:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[16-Aug-2020 15:43:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 11
+[16-Aug-2020 15:47:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 11
+[16-Aug-2020 15:49:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[16-Aug-2020 15:49:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/beingale/public_html/loginchk.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 9
+[17-Aug-2020 18:04:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/beingale/public_html/loginchk.php on line 29
+[17-Aug-2020 18:04:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/beingale/public_html/loginchk.php on line 29
+[17-Aug-2020 18:04:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/beingale/public_html/loginchk.php on line 29
+[17-Aug-2020 18:16:08 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/beingale/public_html/loginchk.php on line 9
+[17-Aug-2020 18:16:44 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/beingale/public_html/loginchk.php on line 9
+[17-Aug-2020 18:18:31 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/beingale/public_html/loginchk.php on line 9
+[17-Aug-2020 18:18:33 UTC] PHP Parse error:  syntax error, unexpected '$username' (T_VARIABLE) in /home/beingale/public_html/loginchk.php on line 9
+[18-Aug-2020 04:39:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/beingale/public_html/connection1.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 15
+[18-Aug-2020 04:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/beingale/public_html/connection1.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 15
+[18-Aug-2020 04:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/beingale/public_html/connection1.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 14
+[18-Aug-2020 04:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/beingale/public_html/connection1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 18
+[18-Aug-2020 04:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/beingale/public_html/connection1.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 18
+[18-Aug-2020 05:04:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 05:04:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 05:04:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 05:05:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 05:05:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 05:05:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 05:05:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/beingale/public_html/connection1.php on line 6
+[18-Aug-2020 06:25:39 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:26:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:27:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:29:26 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:30:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:35:38 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:35:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 06:40:22 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 07:27:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beingale/public_html/loginchk.php on line 20
+[18-Aug-2020 07:29:12 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beingale/public_html/loginchk.php on line 18
+[18-Aug-2020 07:29:15 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/beingale/public_html/loginchk.php on line 18
+[26-Aug-2020 17:28:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/connection1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 8
+[26-Aug-2020 17:30:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/connection1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 8
+[26-Aug-2020 17:30:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/connection1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 8
+[27-Aug-2020 16:41:01 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/beingale/public_html/connection.php on line 34
+[27-Aug-2020 16:41:09 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/beingale/public_html/connection.php on line 34
+[28-Aug-2020 05:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 13
+[28-Aug-2020 05:31:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 13
+[28-Aug-2020 05:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 12
+[28-Aug-2020 05:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 12
+[28-Aug-2020 05:39:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 13
+[28-Aug-2020 05:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/beingale/public_html/loginchk.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/loginchk.php on line 13
+[28-Aug-2020 05:59:19 UTC] PHP Parse error:  syntax error, unexpected '' $email '' (T_CONSTANT_ENCAPSED_STRING) in /home/beingale/public_html/connection1.php on line 8
+[28-Aug-2020 05:59:25 UTC] PHP Parse error:  syntax error, unexpected '' $email '' (T_CONSTANT_ENCAPSED_STRING) in /home/beingale/public_html/connection1.php on line 8
+[28-Aug-2020 05:59:59 UTC] PHP Parse error:  syntax error, unexpected '' $email '' (T_CONSTANT_ENCAPSED_STRING) in /home/beingale/public_html/connection1.php on line 8
+[28-Aug-2020 06:00:43 UTC] PHP Parse error:  syntax error, unexpected '' $email '' (T_CONSTANT_ENCAPSED_STRING) in /home/beingale/public_html/connection1.php on line 8
+[28-Aug-2020 06:08:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/beingale/public_html/connection1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 8
+[28-Aug-2020 06:08:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/beingale/public_html/connection1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 8
+[28-Aug-2020 06:09:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/beingale/public_html/connection1.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/beingale/public_html/connection1.php on line 8
